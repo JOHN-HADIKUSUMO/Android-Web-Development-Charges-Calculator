@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android-Web-Development-Charges-Calculator</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="logo_design">Logo Design</string>
+    <string name="app_title">Charges Calculator</string>
+    <string name="template_design">Web Template</string>
+    <string name="web_hosting">Web Hosting</string>
+    <string name="domain_registration">Domain Registration</string>
+    <string name="ssl_certificate">SSL</string>
+    <string name="web_development">Development</string>
+    <string name="seo">SEO</string>
+    <string name="subtotal">Sub Total</string>
+    <string name="gst">GST</string>
+    <string name="total">Total</string>
+    <string name="calculating_start">Start calculating....</string>
+    <string name="calculating_stop">Showing result....</string>
+</resources>
