@@ -16,18 +16,18 @@
         <dex dex="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\pre-dexed\debug\classes-b9d4329e8e551956104114362f5455c4a41d6b51.jar" />
     </item>
     <item
-        jar="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b7eb69c1d9585fa02f5b93c36ebbe992228573d6.jar" />
-    </item>
-    <item
         jar="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\pre-dexed\debug\classes-f55295717749b8ebc449857310bfe53e62b5a925.jar" />
+    </item>
+    <item
+        jar="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Github\Android-Web-Development-Charges-Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b7eb69c1d9585fa02f5b93c36ebbe992228573d6.jar" />
     </item>
 
 </items>
